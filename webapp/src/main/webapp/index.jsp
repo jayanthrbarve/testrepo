@@ -1,3 +1,3 @@
-<h2> Steup and deploy using jenkins </h2>
+<h2> Setup and deploy using jenkins </h2>
 
 
